@@ -43,10 +43,10 @@ Backend Developer focado em Java e construção de APIs robustas
 
 ### 📫 Contato
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/Weid-Scatolin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:weidscatolinn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
