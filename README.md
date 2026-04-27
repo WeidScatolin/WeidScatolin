@@ -1,52 +1,65 @@
-<h1 align="center">Olá 👋, eu sou Weid Scatolin</h1>
-
+<!-- HEADER -->
 <p align="center">
-Backend Developer focado em Java e construção de APIs robustas
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Weid%20Scatolin&fontSize=35&fontColor=ffffff"/>
 </p>
+
+---
+
+<h3 align="center">🚀 Backend Developer | Java • Spring Boot • SQL • Oracle</h3>
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 💼 Focado em desenvolvimento backend  
-- ☕ Java + Spring Boot no dia a dia  
-- 🛢️ Experiência com SQL e Oracle  
-- 🔧 Versionamento com Git  
-- 📚 Sempre aprendendo mais sobre arquitetura e boas práticas  
+💻 Desenvolvedor backend focado em APIs robustas e escaláveis  
+☕ Especializado em Java + Spring Boot  
+🛢️ Experiência com Oracle e SQL  
+🔧 Versionamento com Git  
+📚 Evoluindo em arquitetura e boas práticas  
 
 ---
 
-### 🚀 Tecnologias que uso
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+### 🚀 Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,git,mysql"/>
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WeidScatolin&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeidScatolin&layout=compact&theme=tokyonight"/>
+### 📊 Estatísticas
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WeidScatolin&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeidScatolin&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 🔥 Consistência
-<p>
-  <img src="https://streak-stats.demolab.com?user=WeidScatolin&theme=tokyonight"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WeidScatolin&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 👀 Visitas no perfil
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WeidScatolin&color=blue"/>
 </p>
 
 ---
 
 ### 📫 Contato
-<p>
-  <a href="https://www.linkedin.com/Weid-Scatolin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/weidscatolin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:weidscatolinn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:Weie.kingg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
