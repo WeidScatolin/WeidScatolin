@@ -33,13 +33,6 @@
 
 ---
 
-### 🔥 Consistência
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=WeidScatolin&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### 👀 Visitas no perfil
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WeidScatolin&color=blue"/>
